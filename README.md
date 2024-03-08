@@ -9,7 +9,7 @@ The bandit slippery walk problem is a reinforcement learning problem in which an
 ### States :
 The environment has 7 states:
 
-Two Terminal States: G: The goal state & H: A hole state.
+Two Terminal States : G : The goal state & H : A hole state.
 
 Five Transition states / Non-terminal States including S: The starting state.
 
@@ -17,6 +17,7 @@ Five Transition states / Non-terminal States including S: The starting state.
 The agent can take two actions:
 
 **R: Move right.**
+</br>
 **L: Move left.**
 
 ### Transition Probabilities :
@@ -37,6 +38,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ![image](https://github.com/Pavan-Gv/policy-iteration-algorithm/assets/94827772/67f46692-b254-42a2-827b-4c4de0a28a11)
 
 ### POLICY ITERATION ALGORITHM :
+
 The algorithm implemented in the policy_iteration is a method used to find the optimal policy in a Markov decision process (MDP).
 
 Here's a step-by-step explanation of the algorithm:
