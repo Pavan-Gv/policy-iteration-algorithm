@@ -34,7 +34,7 @@ a 16.66% chance that it will move to state 2.
 ### Rewards :
 The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states.
 
-###Graphical Representation :
+### Graphical Representation :
 ![image](https://github.com/Pavan-Gv/policy-iteration-algorithm/assets/94827772/67f46692-b254-42a2-827b-4c4de0a28a11)
 
 ### POLICY ITERATION ALGORITHM :
