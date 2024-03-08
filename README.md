@@ -89,7 +89,7 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
     return V, pi
 ```
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+
 #### Adversarial Policy :
 
 ![image](https://github.com/Pavan-Gv/policy-iteration-algorithm/assets/94827772/1496a0a5-5f8c-41b1-89b7-5ff89295786e)
